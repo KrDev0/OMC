@@ -1,0 +1,10 @@
+D:\KrDev\Escritorio\OMC\OMC\bin\Debug\OMC.exe.config
+D:\KrDev\Escritorio\OMC\OMC\bin\Debug\OMC.exe
+D:\KrDev\Escritorio\OMC\OMC\bin\Debug\OMC.pdb
+D:\KrDev\Escritorio\OMC\OMC\obj\Debug\OMC.csproj.AssemblyReference.cache
+D:\KrDev\Escritorio\OMC\OMC\obj\Debug\WMC.Form1.resources
+D:\KrDev\Escritorio\OMC\OMC\obj\Debug\OMC.Properties.Resources.resources
+D:\KrDev\Escritorio\OMC\OMC\obj\Debug\OMC.csproj.GenerateResource.cache
+D:\KrDev\Escritorio\OMC\OMC\obj\Debug\OMC.csproj.CoreCompileInputs.cache
+D:\KrDev\Escritorio\OMC\OMC\obj\Debug\OMC.exe
+D:\KrDev\Escritorio\OMC\OMC\obj\Debug\OMC.pdb
